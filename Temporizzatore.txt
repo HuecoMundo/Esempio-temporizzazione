@@ -1,0 +1,14 @@
+long inizio = System.currentTimeMillis();
+
+
+
+
+.......
+
+
+
+
+
+long fine = System.currentTimeMillis();
+
+long tempo__esecuzione_programma = fine - inizio;
